@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>Final Project</title>
+  
+  
+  
+      <link rel="stylesheet" href="css/style.css">
+
+  
+</head>
+
+<body>
+
+  <div>
+<h1 class="name"> Shaadi</h1>
+<h2 id="last"> Ahmadzadeh </h2>
+<h3> Period 3 </h3>
+</div>
+<h4> Final! </h4>
+<p> On this website, you will see an excellent execution of a pastel pink color scheme. Please note that this pastel pink is not the same as rose gold or millenial pink. Rather, it is a lighter, less harsh version of the pink that glitters our everyday lives. </p> 
+
+<p> When paired with purple, a pastel pink beautifully contrasts with the deep purple color through art science. How? Pure purple is an equal combination of two primary colors: blue and red. Usually, there are minimal amounts of white in purple. The red is also found in pink, which is mixed with red and white. A pastel pink has a higher concentration of white than it does red. The amounts of white are inversely correlated to each other, creating a visually appealing contrast. <br>
+<canvas id="canvas-1" width = '100' height = '100'></canvas>
+  
+  <p>The next combination is with lavender, which in some ways, is seen as a pastel purple. The color lavender is associated with the plant lavender, which is famed for its aromatic scents. It also grew in my front yard but died during the drought. </br>
+
+<canvas id="canvas-2" width = '100' height = '100'></canvas>
+
+<p> As you can see, the contrast is not as noticable as the purple because the white in both of them have relatively similar quantities. As a result, only a small portion of contrast can be seen. The colors do blend together nicely, allowing for a gradient. </p>
+
+<canvas id="canvas-3" width = '100' height = '100'></canvas>
+
+<p> Another combination of color of pink is with red. Red is an interesting color to pair pink with because of its correlation to pink. As mentioned earlier, pastel pink is basically red with an intense concentration of white. Red is also an important color in many cultures, symbolizing love, money, happiness, and much more. In India, the word <i>shaadi</i> means marriage. Coincidentally, that is my name. I am not married. However, the world's largest dating website is named "Shaadi". The color of their website is a coral-red color. If you want to take a look at their website, click <a href="https://www.shaadi.com/">here</a>. Fun story: Once I tried making an account for my friend and it did not work.<br>
+  
+<canvas id="canvas-4" width = '100' height = '100'></canvas> <br>
+
+<p>  Millenial pink is another famous pink color. In 2016 and 2017, the color was all the rage. Why? I have no idea. It is just a hyped up version of pastel pink. It used to be everywhere until Pantone decided it was not and made coral the color of the year. </p>
+
+<canvas id="canvas-5" width = '100' height = '100'></canvas> <br>
+You can barely even see it.
+
+<p> Pink has also had a large place in modern culture. For example, Victoria's Secret has a line called <i>Pink</i>, where they sell a lot of pink, black, and white things. Pink was also the signature color of Elle Woods, the starring character of <i>Legally Blonde</i>. Hello Kitty also wears pink, as does Minnie Mouse as well. Major fashion houses, such as Dior, Chanel, and Givenchy, have also embraced pink in their seasonal collections. With the color pink holding such a revered place in society, it is about time New West incorporate the color into its hallways and uniforms. <br>
+  
+  <canvas id="canvas-6" width = '100' height = '100'></canvas>
+  <canvas id="canvas-7" width = '100' height = '100'></canvas> 
+  <canvas id="canvas-8" width = '100' height = '100'></canvas>
+  <canvas id="canvas-9" width = '100' height = '100'></canvas> 
+  <canvas id="canvas-10" width = '100' height = '100'></canvas>
+  <canvas id="canvas-11" width = '100' height = '100'></canvas>
+  
+  
+
+    <script  src="js/index.js"></script>
+
+
+
+
+</body>
+
+</html>
